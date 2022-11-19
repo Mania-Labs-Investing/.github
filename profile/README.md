@@ -1,4 +1,8 @@
-## Hi there 👋
+![mania-logo](https://user-images.githubusercontent.com/33256566/202823755-1774f0c9-a19e-4e18-9e9e-8acf295fb149.png)
+
+# Mania Labs
+
+
 
 <!--
 
