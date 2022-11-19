@@ -1,16 +1,33 @@
-![mania-logo](https://user-images.githubusercontent.com/33256566/202823755-1774f0c9-a19e-4e18-9e9e-8acf295fb149.png)
+<!-- Custom Image Allignment https://davidwells.io/snippets/how-to-align-images-in-markdown -->
+<img align="right" width="120" height="143" src="https://user-images.githubusercontent.com/33256566/202823882-be3b80ad-8a93-4659-9aff-fc2a46500485.png">
 
-# Mania Labs
-
-
-
-<!--
-
-**Here are some ideas to get you started:**
-
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
+<!-- 
+Company Overview Description https://www.nerdwallet.com/article/small-business/company-overview 
+Strong Example to Reference https://www.starbucks.com/about-us/
 -->
+# Mania Labs LLC, Based Out Of Versailles OH
+
+## Ownership & Management Team
+<!-- Break down who owns your business and how each owner is involved with the business. What shares of the company belong to whom? If you have a highly involved management team, share their names and key roles with the company as well. -->
+* Paul L Fullenkamp
+* Mike M Munroe
+* Abram A Yorde
+
+## Company History
+<!-- Part of what makes your company unique is its history. And, even startups have some history. Don’t put too much focus on this section, but do add some personality and interesting details if possible, especially if they relate to your company culture. -->
+
+## Mission Statement
+<!-- Your company’s mission statement should be included in the company overview. If you don’t yet have a company mission statement, that’s okay. Think of a mission statement as the purpose of your company.
+
+If you don’t have one, you can create one with your team. Or you can simply replace the mission statement with a problem statement. Your business idea should exist to solve a problem or pain point faced by your customers. Share what that problem is and what your business does to solve it. That’s essentially your mission statement. -->
+
+## Products & Services
+<!-- This section of the company overview is where you can share the nitty-gritty details of your business. Talk about what product or service you provide and to whom you provide it. You can share some numbers here, but in general, save the numbers for later in your business plan.
+
+The company overview should give the reader a general understanding of your business, your product or service, and your customer. If they’re interested to know more, they’ll reach out to you for a meeting or take the time to read the rest of your business plan. Keep it simple and straightforward here. -->
+
+## Future Goals
+<!-- While concrete details and facts about your business are important to whoever is reading your company overview, it’s also important to share your dreams and your vision. If you’re writing a business plan for a business that’s already in place, it’s very likely you’re looking for business financing to scale or solve a business problem. If you’re just starting out, though, then it’s likely you’re hoping to find startup funding.
+
+The section on your future business goals should include a brief description of your growth goals for your business. Where you are now tells the reader a lot, but they also want to know where you plan to go. -->
+
