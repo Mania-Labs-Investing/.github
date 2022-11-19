@@ -5,16 +5,24 @@
 Company Overview Description https://www.nerdwallet.com/article/small-business/company-overview 
 Strong Example to Reference https://www.starbucks.com/about-us/
 -->
-# Mania Labs LLC, Based Out Of Versailles OH
+# Mania Labs LLC
 
 ## Ownership & Management Team
 <!-- Break down who owns your business and how each owner is involved with the business. What shares of the company belong to whom? If you have a highly involved management team, share their names and key roles with the company as well. -->
-* Paul L Fullenkamp
-* Mike M Munroe
-* Abram A Yorde
+
+### Paul Fullenkamp: Job Title
+> interesting
+
+### Micheal Munroe: Job Title
+> facts
+
+### Abram Yorde: Job Title
+> Data Scientist with 5+ years professional experience coming from a background in Mechanical engineering. 
 
 ## Company History
 <!-- Part of what makes your company unique is its history. And, even startups have some history. Don’t put too much focus on this section, but do add some personality and interesting details if possible, especially if they relate to your company culture. -->
+
+Mania Labs had its beginings going back to 2020, with a group of friends that wanted to apply analytics to some problems in every day life. 
 
 ## Mission Statement
 <!-- Your company’s mission statement should be included in the company overview. If you don’t yet have a company mission statement, that’s okay. Think of a mission statement as the purpose of your company.
