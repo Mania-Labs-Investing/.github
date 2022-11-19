@@ -10,19 +10,21 @@ Strong Example to Reference https://www.starbucks.com/about-us/
 ## Ownership & Management Team
 <!-- Break down who owns your business and how each owner is involved with the business. What shares of the company belong to whom? If you have a highly involved management team, share their names and key roles with the company as well. -->
 
+<!--
 ### Paul Fullenkamp: Job Title
-> interesting
+> 5+ years enterprise level data science manager in addition to 10+ years technical mechanical engineering background. 
 
 ### Micheal Munroe: Job Title
-> facts
+> 10+ years 
 
 ### Abram Yorde: Job Title
 > Data Scientist with 5+ years professional experience coming from a background in mechanical engineering. 
+-->
 
 ## Company History
 <!-- Part of what makes your company unique is its history. And, even startups have some history. Don’t put too much focus on this section, but do add some personality and interesting details if possible, especially if they relate to your company culture. -->
 
-Mania Labs had its beginings going back to 2020, with a group of friends that wanted to apply analytics to some problems in every day life. One of the initial explorations into this hobby was focused on using ML to predict an optimal March Madness bracket. At the time this was a popular [Kaggle competition](https://www.kaggle.com/competitions/mens-march-mania-2022/data), this link is to a more recent iteration of said contest. Some success found in a local bracket despite our lack of backetball knowledge served to propel us into new endevaours. After some sub par 401K performance the new focus of attention. 
+Mania Labs had its beginings going back to 2020, with a group of friends that wanted to apply analytics to some problems in every day life. One of the initial explorations into this hobby was focused on using ML to predict an optimal March Madness bracket. At the time this was a popular [Kaggle competition](https://www.kaggle.com/competitions/mens-march-mania-2022/data), this link is to a more recent iteration of said contest. Some success found in a local bracket despite our lack of backetball knowledge served to propel us into new endevaours. After some sub par 401K performance, the new focus of attention became more informed investing. In this we had found one of the most challenging yet fullfilling problems yet to attempt. 
 
 ## Mission Statement
 <!-- Your company’s mission statement should be included in the company overview. If you don’t yet have a company mission statement, that’s okay. Think of a mission statement as the purpose of your company.
