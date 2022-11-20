@@ -11,14 +11,15 @@ Strong Example to Reference https://www.starbucks.com/about-us/
 <!-- Break down who owns your business and how each owner is involved with the business. What shares of the company belong to whom? If you have a highly involved management team, share their names and key roles with the company as well. -->
 
 <!--
-### Paul Fullenkamp: Job Title
-> 5+ years enterprise level data science manager in addition to 10+ years technical mechanical engineering background. 
+### Paul Fullenkamp: Chief Executive Officer
+> things 
 
 ### Micheal Munroe: Job Title
-> 10+ years 
+> things
 
-### Abram Yorde: Job Title
-> Data Scientist with 5+ years professional experience coming from a background in mechanical engineering. 
+### Abram Yorde: Chief Implementation Officer
+**Eduational Background: Bachelors in Mechnical Engineering Wright State, Masters in Analytics Georgia Tech**
+> My journey started with a Mechnical Engineering group as an intern during my Bachelors degree. After a few tours in various groups I found myself in a group tasked with a very interesting goal. We were to gain the skills needed to drive value through propogating data analytics throughout the engineering organization. Through this process we took very targeted training with professors form the local university (University of Dayton) and worked directly with graduate students to apply these concepts to problems within the organization. Focus started internally with process automation and optimization. We learned how to leverage industry leading tools and then developed applications around these tools to aid and educate others in the department. This later spun into a large scale modeling project which reduced the physical time spent in R&D for new product developemnt significantly. We went on to tackle many other problems, ranging from business forecasing, system automation,
 -->
 
 ## Company History
