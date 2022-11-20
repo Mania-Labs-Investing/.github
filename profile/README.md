@@ -38,6 +38,18 @@ Mania Labs chases honorable pursuits to create wealth, improve the world for oth
 
 The company overview should give the reader a general understanding of your business, your product or service, and your customer. If they’re interested to know more, they’ll reach out to you for a meeting or take the time to read the rest of your business plan. Keep it simple and straightforward here. -->
 
+Mania Labs LLC is comprised primarily of a team of analytics professionals. We provide two primary services centered around analytics, consultation and contract work and ML driven investment products.
+
+### Analytics Contracts
+
+Mania Labs contains a breadth of analytics experience across our core team. We have trained and mentored entry level data scientists and engineers, managed a diverse team of analytics professionals, and taken many complex programs from ideation to production level deployment. Given this exeperience, we are very well suited for providing value and mentorship through analytics engagements. We are transparent with our process and approach, look forward to propogating best practies through our work with customers, and aim to leave customers more enabled and armed with tools to provide maximum value back to their organization even after our engagemnet has finisihed.  
+
+We believe in a value based model, as it works in the best interest of both us (Mania Labs LLC) and our customers. Core to this model, is that we work with our customers to scope out their project success metric and couple it directly to their bottom line. Once this metric has been defined we work together to understand the current state, and project conservative numbers around what value could be generated from completing the program. Part of our cost for completing the program is then tied directly to this success metric.
+
+There are quite a few benefits for the customer in approaching analyitcs contracts in this manner. Given that part of our fees are driven by realized returned value by the customer, we are further incentaived to provide as much value as possible. While scoping the project, part of projecting the expected value returned is to tie that to the cost of the program. This makes for a clear picture into realized ROI for our customers, and allows them to easily propose and discuss the project with their executive management if need be. Multiple scenarios are then laid out with a fixed ROI for the customer, giving complete transparency to cost while painting a full picture of what could be achieved. Given that the ROI is fixed, it serves to incentivize both us (Mania Labs LLC) and our customer to acheive the optimal value out of the program. Approaching from this mindset helps to gain support from upper management, and ensure quick and lasting priority while moving through the final implementation phase. 
+
+### ML Driven Investment Products
+
 ## Future Goals
 <!-- While concrete details and facts about your business are important to whoever is reading your company overview, it’s also important to share your dreams and your vision. If you’re writing a business plan for a business that’s already in place, it’s very likely you’re looking for business financing to scale or solve a business problem. If you’re just starting out, though, then it’s likely you’re hoping to find startup funding.
 
