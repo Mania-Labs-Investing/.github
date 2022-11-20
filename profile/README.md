@@ -38,7 +38,7 @@ Mania Labs chases honorable pursuits to create wealth, improve the world for oth
 
 The company overview should give the reader a general understanding of your business, your product or service, and your customer. If they’re interested to know more, they’ll reach out to you for a meeting or take the time to read the rest of your business plan. Keep it simple and straightforward here. -->
 
-Mania Labs LLC is comprised primarily of a team of analytics professionals. We provide two primary services centered around analytics, consultation and contract work and ML driven investment products.
+Mania Labs LLC provides two primary services, analyitcs contracts and ML driven investment products.
 
 ### Analytics Contracts
 
