@@ -30,6 +30,8 @@ Mania Labs had its beginings going back to 2020, with a group of friends that wa
 <!-- Your company’s mission statement should be included in the company overview. If you don’t yet have a company mission statement, that’s okay. Think of a mission statement as the purpose of your company.
 
 If you don’t have one, you can create one with your team. Or you can simply replace the mission statement with a problem statement. Your business idea should exist to solve a problem or pain point faced by your customers. Share what that problem is and what your business does to solve it. That’s essentially your mission statement. -->
+Mania Labs chases honorable pursuits to create wealth, improve the world for others, and see the world improved beyond our years. We look for ways to benefit our lives and families that also benefit others.
+
 
 ## Products & Services
 <!-- This section of the company overview is where you can share the nitty-gritty details of your business. Talk about what product or service you provide and to whom you provide it. You can share some numbers here, but in general, save the numbers for later in your business plan.
