@@ -14,18 +14,19 @@ Strong Example to Reference https://www.starbucks.com/about-us/
 ### Paul Fullenkamp: Chief Executive Officer
 > things 
 
-### Micheal Munroe: Job Title
-> things
-
 ### Abram Yorde: Chief Implementation Officer
 **Eduational Background: Bachelors in Mechnical Engineering Wright State, Masters in Analytics Georgia Tech**
 > My journey started with a Mechnical Engineering group as an intern during my Bachelors degree. After a few tours in various groups I found myself in a group tasked with a very interesting goal. We were to gain the skills needed to drive value through propogating data analytics throughout the engineering organization. Through this process we took very targeted training with professors form the local university (University of Dayton) and worked directly with graduate students to apply these concepts to problems within the organization. Focus started internally with process automation and optimization. We learned how to leverage industry leading tools and then developed applications around these tools to aid and educate others in the department. This later spun into a large scale modeling project which reduced the physical time spent in R&D for new product developemnt significantly. We went on to tackle many other problems, ranging from business forecasing, system automation,
+
+### Michael Munroe: Job Title
+> things
+
 -->
 
 ## Company History
 <!-- Part of what makes your company unique is its history. And, even startups have some history. Don’t put too much focus on this section, but do add some personality and interesting details if possible, especially if they relate to your company culture. -->
 
-Mania Labs had its beginings going back to 2020, with a group of friends that wanted to apply analytics to some problems in every day life. One of the initial explorations into this hobby was focused on using ML to predict an optimal March Madness bracket. At the time this was a popular [Kaggle competition](https://www.kaggle.com/competitions/mens-march-mania-2022/data), this link is to a more recent iteration of said contest. Some success found in a local bracket despite our lack of backetball knowledge served to propel us into new endevaours. After some sub par 401K performance, the new focus of attention became more informed investing. In this we had found one of the most challenging yet fullfilling problems yet to attempt. 
+Mania Labs had its beginings going back to 2020, with a group of friends that wanted to apply analytics to some problems in every day life. One of the initial explorations into this hobby was focused on using ML to predict an optimal March Madness bracket. At the time this was a popular [Kaggle competition](https://www.kaggle.com/competitions/mens-march-mania-2022/data), this link is to a more recent iteration of said contest. Some success found in a local bracket despite our lack of **bacqketball** knowledge served to propel us into new endevaours. After some sub par 401K performance, the new focus of attention became more informed investing. In this we had found one of the most challenging yet fullfilling problems yet to attempt. 
 
 ## Mission Statement
 <!-- Your company’s mission statement should be included in the company overview. If you don’t yet have a company mission statement, that’s okay. Think of a mission statement as the purpose of your company.
